@@ -6,4 +6,3 @@ the parameters of detection fake videos, is high quality or low quality
 videos need different approach. This paper model for detecting fake
 or synthesis videos is generalize and can be trained for any type of
 videos.
-1
