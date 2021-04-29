@@ -1,0 +1,3 @@
+http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html
+https://github.com/danmohaha/celeb-deepfakeforensics
+http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html
